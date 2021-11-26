@@ -2,10 +2,12 @@
 This is a repository to gain familiarity with git and Github.
 
 
-
-git clone
-git pull
-git add
-git status
-git commit
-git push
+## Git Commands
+* git clone
+* git pull
+* git add
+* git status
+* git commit
+* git push
+* git branch
+* git checkout
